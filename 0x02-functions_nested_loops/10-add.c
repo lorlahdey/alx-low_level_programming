@@ -1,9 +1,10 @@
-#include <stdio.h>
+#include "main.h"
 /**
- * main - Entry point
+ * add - function that adds two integers and returns the result
  *
- * Return: Always 0 (Success)
+ * Return: integer value
  */
-int main(void)
+int add(int num1, int num2)
 {
+	return (num1 + num2);
 }
