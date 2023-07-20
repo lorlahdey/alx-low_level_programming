@@ -2,6 +2,7 @@
 /**
  * _isalpha - function that checks for alphabetic character
  *
+ * @c: integer value
  * Return: Always 0 (Success)
  */
 int _isalpha(int c)
