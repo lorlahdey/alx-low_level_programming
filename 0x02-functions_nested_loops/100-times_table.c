@@ -2,11 +2,13 @@
 /**
  * print_times_table - function that prints the n times table, starting with 0.
  *
+ * @n: value
  * Return: Always 0 (Success)
  */
 void print_times_table(int n)
 {
 	int a, b, c;
+
 	if (n >= 0 && n <= 15)
 	{
 		for (a = 0; a <= n; a++)
