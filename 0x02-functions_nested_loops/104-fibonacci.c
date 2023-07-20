@@ -34,10 +34,10 @@ int main(void)
 	printf("%lu%lu", half1, half2);
 	if (count != 98)
 	printf(", ");
-	f1_half1 = f2_half1
+	f1_half1 = f2_half1;
 	f1_half2 = f2_half2;
-	f2_half1 = half1
-	f2_half2 = half2
+	f2_half1 = half1;
+	f2_half2 = half2;
 	}
 	printf("\n");
 	return (0);
