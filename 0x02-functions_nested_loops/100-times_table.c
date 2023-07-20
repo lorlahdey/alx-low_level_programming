@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_times_table - function that prints the n times table, starting with 0.
- * 
+ *
  * Return: Always 0 (Success)
  */
 void print_times_table(int n)
@@ -17,7 +17,7 @@ void print_times_table(int n)
 				_putchar(',');
 				_putchar(' ');
 				c = a * b;
-				if (c <=99)
+				if (c <= 99)
 					_putchar(' ');
 				if (c <= 9)
 					_putchar(' ');
