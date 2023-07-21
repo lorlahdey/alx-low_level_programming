@@ -5,7 +5,7 @@
  *
  * @n: Integer
  *
- * Return: Always 0 (Success)
+ * Return: Nothing
  */
 void print_number(int n)
 {
