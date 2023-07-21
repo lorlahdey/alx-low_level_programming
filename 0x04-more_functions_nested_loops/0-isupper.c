@@ -4,7 +4,7 @@
  *
  * @c: value to be checked
  *
- * Return: 1 for upper letters and 0 for other values
+ * Return: 1 or 0
  */
 int _isupper(int c)
 {
@@ -12,5 +12,8 @@ int _isupper(int c)
 	{
 		return (1);
 	}
-	return (0);
+	else
+	{
+		return (0);
+	}
 }
