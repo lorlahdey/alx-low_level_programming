@@ -5,7 +5,7 @@
  *
  * @s: string value to be reversed
  *
- * Return: Always 0 (Success)
+ * Return: 0
  */
 void print_rev(char *s)
 {
